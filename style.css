@@ -13,7 +13,7 @@ html , body{
 }
 
 #main{
-    height: 85vh;
+    max-height: 85vh;
     width: 100%;
     background-color: #111;
     display: flex;
